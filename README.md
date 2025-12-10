@@ -19,6 +19,8 @@
 
 <img width="1816" height="1087" alt="Screenshot 2025-12-10 at 14-03-07 CUA GUI Operator - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/ea0a4912-af8b-4c8f-a1a9-b7ffb7f966c7" />
 
+<img width="1918" height="1203" alt="Screenshot 2025-12-10 at 14-23-45 CUA GUI Operator - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/166d0d2d-1631-4234-9610-5d3b8702b88e" />
+
 ![image](https://github.com/user-attachments/assets/c4a4505f-613c-4fb5-87a9-d300c6c6fe06)
 
 ## Prerequisites
