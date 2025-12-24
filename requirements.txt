@@ -1,4 +1,4 @@
-transformers==4.57.1
+git+https://github.com/huggingface/transformers.git@v4.57.1
 webdriver-manager
 huggingface_hub
 python-dotenv
